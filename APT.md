@@ -1,3 +1,4 @@
-# APT progress bar
+# APT
 
+## Progress bar
 > echo 'Dpkg::Progress-Fancy "1";' > /etc/apt/apt.conf.d/99progressbar
