@@ -4,4 +4,4 @@ Notes to myself.. A collection of random notes about commands/configurations I u
 * [APT](APT.md)
 * [Crouton](crouton.md)
 * [MySQL](MySQL.md)
-* [Linux](Linux.md)
+* [GNU/Linux](GNU-Linux.md)
