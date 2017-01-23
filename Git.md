@@ -1,6 +1,6 @@
 # GIT
 
-# Rename branch
+## Rename branch
 ```
 $ git branch new-branch-name origin/old-branch-name
 $ git checkout new-branch-name
